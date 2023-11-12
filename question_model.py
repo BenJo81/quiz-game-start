@@ -4,4 +4,3 @@ class Question:
         self.text = text
         self.answer = answer
 
-
